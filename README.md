@@ -1,6 +1,6 @@
 # Ebay Phone Evaluator Notebook
 
-This is a main project of the 2nd module of Turing College. Here we need to do scraping and deploying a model.
+This is the main project of the 2nd module of Turing College. Here we need to do scraping and deploying a model.
 
 ### Introduction
 
